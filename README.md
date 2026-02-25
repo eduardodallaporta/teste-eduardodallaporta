@@ -1,4 +1,4 @@
-# 📊 Teste Técnico – Análise de Vendas
+# 📊 Teste Técnico
 
 Este repositório contém as soluções desenvolvidas para o teste técnico.
 
