@@ -17,5 +17,5 @@ Realizar:
 
 ## Execução
 1. Abrir o notebook no Jupyter Notebook ou VS Code
-2. Garantir que o arquivo Excel esteja no diretório `Data/`
+2. Garantir que o arquivo Excel esteja no diretório `data/`
 3. Executar as células em sequência para visualizar o resultado da análise
