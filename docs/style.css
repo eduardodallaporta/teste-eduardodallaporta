@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+
+header {
+    background-image: linear-gradient(to bottom, rgb(177, 177, 177), rgb(223, 223, 223) );
+    padding: 30px 0;
+    text-align: center;
+    color: black;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: 5px auto;
+    background-color: white;
+}
+
+
+th, td {
+    border: 1px solid rgba(0, 0, 0, 0.397);
+    padding: 8px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+.cancelado {
+    background-color: #f8d7da;
+    color: red;
+}
+

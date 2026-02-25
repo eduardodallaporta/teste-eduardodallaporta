@@ -1,0 +1,5 @@
+[
+  { "id": 1001, "cliente": "João Silva", "produto": "ARROZ BRANCO 5KG", "valor": 25.0, "status": "Concluído" },
+  { "id": 1002, "cliente": "Maria Souza", "produto": "ARROZ BRANCO 2KG", "valor": 12.0, "status": "Cancelado" },
+  { "id": 1003, "cliente": "Pedro Lima", "produto": "ARROZ PARBO 5KG", "valor": 27.0, "status": "Pendente" }
+]
