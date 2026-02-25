@@ -4,7 +4,7 @@ Tarefa 02 - Análise de dados desenvolvida em Python utilizando Jupyter Notebook
 
 ## Arquivos
 - `analise_planilha.ipynb`: notebook com o código de leitura e análise dos dados.
-- `Data/Planilha_Vendas_Teste 2.xlsx`: arquivo Excel utilizado como fonte de dados.
+- `data/Planilha_Vendas_Teste.xlsx`: arquivo Excel utilizado como fonte de dados.
 
 ## Objetivo
 Realizar:
@@ -17,5 +17,5 @@ Realizar:
 
 ## Execução
 1. Abrir o notebook no Jupyter Notebook ou VS Code
-2. Garantir que o arquivo Excel esteja no diretório `Data/`
+2. Garantir que o arquivo Excel esteja no diretório `data/`
 3. Executar as células em sequência para visualizar o resultado da análise
