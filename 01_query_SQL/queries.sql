@@ -1,6 +1,6 @@
 
 /* 
-    SQL – Consultas em Banco de Dados
+  SQL – Consultas em Banco de Dados
 •	Tarefa 1 - Escreva uma query que retorne o Nome do Cliente, a Data e o Valor de todas as vendas com status 'Concluído':
 */
 
@@ -26,5 +26,5 @@ ORDER BY c.CLIENTE;
 
 
 /*
-Obs: A consulta para clients sem pedido foi implementada via LEFT JOIN com verificação de NULL. No dataset fornecido, todos os cliente possuem pelo menos um pedido, portanto o resultado é vazio.
+Obs: A consulta para clientes sem pedido foi implementada via LEFT JOIN com verificação de NULL. No dataset fornecido, todos os cliente possuem pelo menos um pedido, portanto o resultado é vazio.
 */
