@@ -1,6 +1,6 @@
 # Módulo Web - Gestor de Vendas
 
-Tarefa 03 - Aplicação Web
+Tarefa 03 - Aplicação Web com HTML, CSS, JavaScript
 
 ## 🌐 Visualização Online
 

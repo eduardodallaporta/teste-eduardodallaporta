@@ -1,6 +1,6 @@
 # Módulo SQL
 
-Este diretório contém as consultas SQL desenvolvidas para atender às Tarefas 1 e 2 do teste técnico.
+Tarefa 01 - Consultas SQL
 
 ## Arquivo
 - `queries.sql`: contém as consultas utilizadas para extração das informações solicitadas.

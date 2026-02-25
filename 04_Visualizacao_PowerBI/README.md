@@ -1,6 +1,6 @@
 # Módulo de Visualização - Power BI
 
-Este diretório contém o dashboard desenvolvido no Power BI.
+Tarefa 04 - Dashboard desenvolvido no Power BI.
 
 ## Arquivo
 - `Visualizacao_Grafico.pbix`

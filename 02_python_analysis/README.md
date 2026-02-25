@@ -1,6 +1,6 @@
 # Módulo de Análise com Python
 
-Tarefa 02 - análise de dados desenvolvida em Python utilizando Jupyter Notebook.
+Tarefa 02 - Análise de dados desenvolvida em Python utilizando Jupyter Notebook.
 
 ## Arquivos
 - `analise_planilha.ipynb`: notebook com o código de leitura e análise dos dados.
